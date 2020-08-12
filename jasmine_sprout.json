@@ -1,24 +1,24 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "",
-			"download": "",
-			"timestamp": ,
-			"md5": "",
-			"size": 874133240,
-			"version": "",
-			"buildtype": "",
-			"forum": "",
-			"gapps": "",
+			"maintainer": "Anush Madathumkara (Anush02198)",
+			"oem": "Xiaomi",
+			"device": "Mi A2",
+			"filename": "MalluOS-1.1-Aanamayakki-20200811-jasmine_sprout-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/malluos/files/jasmine_sprout/MalluOS-1.1-Aanamayakki-20200806-jasmine_sprout-OFFICIAL.zip/download",
+			"timestamp": 1596975370,
+			"md5": "f51529661e33d809c0e7b82d56a560ef",
+			"size": 876300000,
+			"version": "1.1",
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/mi-a2/development/rom-malluos-10-0-t4137233/post83123529#post83123529",
+			"gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-10/2020-08-09/",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": ""
+			"telegram": "https://t.me/malluosmia2"
 		}
 	]
 }
