@@ -1,0 +1,24 @@
+{
+	"response": [
+		{
+			"maintainer": "Mohammed Althaf T (althafvly)",
+			"oem": "Xiaomi",
+			"device": "POCO F1",
+			"filename": "MalluOS-1.1-Aanamayakki-20200806-beryllium-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/malluos/files/beryllium/MalluOS-1.1-Aanamayakki-20200806-beryllium-OFFICIAL.zip/download",
+			"timestamp": 1596975370,
+			"md5": "661472d67581d6dda2f8a4189dfd2023",
+			"size": 914000000,
+			"version": "1.1",
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/poco-f1/development/rom-malluos-10-0-t4134471",
+			"gapps": "https://sourceforge.net/projects/opengapps/files/arm64/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/althafvly",
+			"telegram": "https://t.me/althafvly"
+		}
+	]
+}

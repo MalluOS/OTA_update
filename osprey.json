@@ -1,0 +1,24 @@
+{
+	"response": [
+		{
+			"maintainer": "Mohammed Althaf T (althafvly)",
+			"oem": "Motorola",
+			"device": "Moto G3",
+			"filename": "MalluOS-1.1-Aanamayakki-20200805-osprey-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/malluos/files/osprey/MalluOS-1.1-Aanamayakki-20200805-osprey-OFFICIAL.zip/download",
+			"timestamp": 1596975370,
+			"md5": "42b36572bb4af3b9fc483bdcdcc1d5b6",
+			"size": 517000000,
+			"version": "1.1",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "https://sourceforge.net/projects/opengapps/files/arm/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/althafvly",
+			"telegram": "https://t.me/althafvly"
+		}
+	]
+}
