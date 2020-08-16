@@ -1,0 +1,9 @@
+Device Specific Changelogs :-
+
+==================================
+
+AUG 16,2020
+
+==================================
+
++ Initial Build Same changelogs as MiA2 (Jasmine_Sprout).
