@@ -1,5 +1,18 @@
-==================================
-
-Dummy
+Device Specific Changelogs :-
 
 ==================================
+
+AUG 16,2020
+
+==================================
+
++ Updated to V 1.2
++ patch existing flags for safetynet
++ Merge CAF tag 'LA.UM.8.2.r2-02500-sdm660.0'
++ cpumask: Add cpumasks for big and LITTLE CPU clusters
++ config: Populate cluster CPU bitmasks
++ arm: dts: longcheer: Bump touchscreen I2C bus clock
++ qcacld: cds: fix suspicious concatenation of string
++ arm64: support __int128 on gcc 5+
++ arm64: support __int128 with clang
++ some tweaks n optimization to improve performance n efficiency
