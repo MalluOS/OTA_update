@@ -16,3 +16,31 @@ AUG 16,2020
 + arm64: support __int128 on gcc 5+
 + arm64: support __int128 with clang
 + some tweaks n optimization to improve performance n efficiency
+
+==================================
+
+SEP 12,2020
+
+==================================
+
++ Bumped to V1.3 Chicken
++ September Security Patch Android 10.0.0_r46
++ Kernel Upstreamed to V4.4.235
++ Updated to Clang 11.0.4
++ configs: audio: set default headset volume
++ configs: audio: properly import stereomod
++ sdm660-common: enable FBE encryption
++ sdm660-common: remove TARGET_USES_64_BIT_BINDER
++ sdm660-common: overlay: Remove doze Autobrightness values
++ sdm660-common: Add Xiaomi Parts/Doze JP translation
++ Add IImsFactory and uceservice HAL entry
++ Update LPA interface version
++ Add permissions for RCS service
++ init: Update ueventd rules and init rc for new audio drivers
++ rootdir: Set Netflix and media property based on target
++ Add new config overlay for call composer
++ device: qcom: Grant rw permission to hgsl node
++ lib/string.c: implement stpcpy
++ net: wireguard: update wireguard to version v1.0.20200908
++ drivers: smb: add qc3.0 support for global boards
++ ARM: dts: fix power amplifier thermal readings 
