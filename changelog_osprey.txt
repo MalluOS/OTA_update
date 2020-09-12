@@ -1,23 +1,19 @@
 ROM Specific Changelogs :-
 
-- About US in MalluOS Settings
-- OTA Support
-- Expandable Volume Panel
-- Vowifi toggle
-- Vowifi Icons
-- Dataswitch Tile
-- Override VoLTE toggle with voWifi
-- Notch Cutout force fullscreen 
-- Karikku Vowifi icon
-- Samsung clock
-- Typeclock Centered
-- SFUNY clock
-- Full screen gesture navigation
-- Hide navigation handle (toggle)
-- Change length of navigation handle
-- Set minimum auto brightness
-- Smooth Bootanimation
-- New default wallpaper
+* Screen Stabilization
+* BT headset battery stats
+* September security patch
+* QS Opacity
+* QS Headers
+* LS lock icon show/hide
+* Live Volume Steps
+* Hide apps from Recents
+* Redesigned MalluOS Settings
+* New Fresh Wallpper
+* Ambient Display Edge Lighting
+* FOD icon
+* Changed default browser to Firefox Lite
+* New icons for Calender and Calculator
 
 ==================================
 
@@ -25,6 +21,5 @@ Device Specific Changelogs :-
 
 ==================================
 
-Hack VENUS_EXTRADATA_SIZE to return correct value out-of-kernel
-msm8916-common: Update proprietary files list 
+* Wifi display (miracast support)
 
